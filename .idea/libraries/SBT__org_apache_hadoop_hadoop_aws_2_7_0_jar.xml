@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.hadoop:hadoop-aws:2.7.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/jars/hadoop-aws-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-aws/srcs/hadoop-aws-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

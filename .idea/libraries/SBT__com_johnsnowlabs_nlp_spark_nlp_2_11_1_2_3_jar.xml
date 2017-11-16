@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.johnsnowlabs.nlp:spark-nlp_2.11:1.2.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.johnsnowlabs.nlp/spark-nlp_2.11/jars/spark-nlp_2.11-1.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.johnsnowlabs.nlp/spark-nlp_2.11/srcs/spark-nlp_2.11-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
