@@ -17,8 +17,8 @@ object MediumAnalysis {
       .getOrCreate()
 
     spark.sparkContext.hadoopConfiguration.set("fs.s3n.impl", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")
-    spark.sparkContext.hadoopConfiguration.set("fs.s3n.awsAccessKeyId", "AKIAJ4WPQFJSYDPDUHUQ")
-    spark.sparkContext.hadoopConfiguration.set("fs.s3n.awsSecretAccessKey", "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")
+    spark.sparkContext.hadoopConfiguration.set("fs.s3n.awsAccessKeyId", "xxx")
+    spark.sparkContext.hadoopConfiguration.set("fs.s3n.awsSecretAccessKey", "xxx")
     spark.sparkContext.hadoopConfiguration.set("mapreduce.fileoutputcommitter.algorithm.version", "2")
 
     spark
