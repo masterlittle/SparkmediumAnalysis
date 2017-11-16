@@ -29,7 +29,7 @@ object MediumAnalysis {
 
     val data = sparkSession.sqlContext
         .read
-        .json("s3n://test-datasc-redshift-temp/medium-posts.json")
+        .json("s3n://xxx/medium-posts.json")
 
     val documentAssembler = new DocumentAssembler()
       .setInputCol("text")
